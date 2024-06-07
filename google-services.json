@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191284796028",
+    "project_id": "semproject-3d594",
+    "storage_bucket": "semproject-3d594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191284796028:android:e0220f1473d9f825b5c7f9",
+        "android_client_info": {
+          "package_name": "com.semproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkrnx4o3kubnt6Y554jpUOIn0JXf22Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
